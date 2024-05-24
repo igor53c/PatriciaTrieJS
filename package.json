@@ -1,0 +1,13 @@
+{
+    "name": "patricia-trie-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "PatriciaTrie.js",
+    "type": "module",
+    "scripts": {
+        "test": "node testPatriciaTrie.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
